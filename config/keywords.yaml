@@ -1,1 +1,91 @@
+countries:
 
+  - china
+  - chinese
+  - united states
+  - us
+  - america
+  - russia
+  - russian
+  - india
+  - indian
+  - iran
+  - israel
+  - taiwan
+  - japan
+  - south korea
+  - north korea
+  - european union
+  - eu
+  - vietnam
+  - pakistan
+  - ukraine
+
+technology:
+
+  - artificial intelligence
+  - ai
+  - machine learning
+  - large language model
+  - llm
+  - semiconductor
+  - chip
+  - gpu
+  - euv
+  - robotics
+  - drone
+  - quantum computing
+  - quantum
+  - cybersecurity
+  - cyber
+  - satellite
+  - space technology
+  - 5g
+  - 6g
+  - battery
+  - biotechnology
+  - nuclear
+  - energy
+
+geopolitics:
+
+  - sanctions
+  - sanction
+  - export controls
+  - export restriction
+  - trade war
+  - tariff
+  - tariffs
+  - technology transfer
+  - supply chain
+  - national security
+  - military
+  - defense
+  - defence
+  - espionage
+  - intelligence
+  - cyberattack
+  - cyber attack
+  - cyber warfare
+  - critical infrastructure
+  - strategic
+  - alliance
+  - treaty
+  - investment restriction
+  - entity list
+  - decoupling
+  - de-risking
+
+high_priority:
+
+  - export controls
+  - sanctions
+  - cyberattack
+  - cyber warfare
+  - semiconductor
+  - advanced chips
+  - national security
+  - military technology
+  - espionage
+  - critical infrastructure
+  - taiwan
