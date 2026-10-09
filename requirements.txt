@@ -1,1 +1,4 @@
-
+feedparser
+PyYAML
+beautifulsoup4
+requests
